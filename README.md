@@ -29,3 +29,4 @@ An online workshop on 11.20 to teach the concepts of Apollo Federation and how y
 - [Apollo Federation Blog](https://blog.apollographql.com/apollo-federation-f260cf525d21)
 - [Managed Federation Blog](https://blog.apollographql.com/announcing-managed-federation-265c9f0bc88e)
 - [Advanced Federation Features](https://www.apollographql.com/docs/apollo-server/federation/advanced-features/)
+- [Migrating from Schema Stitching](https://www.apollographql.com/docs/apollo-server/federation/migrating-from-stitching/)
