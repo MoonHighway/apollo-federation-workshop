@@ -4,7 +4,7 @@
 
 # Apollo Federation Workshop 🚀
 
-An online workshop on 11.20 to teach the concepts of Apollo Federation and how you can use this architecture to scale GraphQL projects and work more productively as a team.
+An online workshop to teach the concepts of Apollo Federation and how you can use this architecture to scale GraphQL projects and work more productively as a team.
 
 ## Instructor Info
 
